@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Indiana Life & Health Exam Prep · LicenseLab",
+  "short_name": "IN Life & Health",
+  "description": "Indiana Life and Health producer exam prep with quizzes, mock exams, and a permanent missed-questions bank.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c1120",
+  "theme_color": "#101526",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
